@@ -4,7 +4,7 @@
   "description": "this is just a demo showcasing that we can publish something to npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "keywords": [
     "testing",

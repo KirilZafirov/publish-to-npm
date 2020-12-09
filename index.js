@@ -1,6 +1,6 @@
 var counter = (function () {
     var i = 0;
-
+// "test": "echo \"Error: no test specified\" && exit 1"
     return {
         get: function () {
             return i;
