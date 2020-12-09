@@ -1,15 +1,13 @@
-var counter = (function () {
+ 
     var i = 0;
 // "test": "echo \"Error: no test specified\" && exit 1"
-    return {
-        get: function () {
+ 
+ function get() {
             return i;
-        },
-        set: function (val) {
+        };
+        exports.set = function (val) {
             i = val;
-        },
-        increment: function () {
+        };
+        exports.increment = function () {
             return ++i;
-        }
-    };
-})();
+        };
