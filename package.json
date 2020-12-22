@@ -1,6 +1,6 @@
 {
   "name": "weekly-session-creating-js-package",
-  "version": "1.0.6",
+  "version": "1.0.7-0",
   "description": "this is just a demo showcasing that we can publish something to npm",
   "homepage": "https://github.com/KirilZafirov/publish-to-npm",
   "main": "dist/index.js",
@@ -14,14 +14,14 @@
     "publish"
   ],
   "author": "Kiril Zafirov <kiril.zafirov@yahoo.com> (https://github.com/KirilZafirov)",
-  "contributors": [], 
+  "contributors": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/KirilZafirov/publish-to-npm.git"
-    },
-    "bugs": {
-        "url": "https://github.com/KirilZafirov/publish-to-npm/issues"
-    },
+  },
+  "bugs": {
+    "url": "https://github.com/KirilZafirov/publish-to-npm/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "np": "^7.0.0"
