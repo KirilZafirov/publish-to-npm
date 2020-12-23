@@ -1,6 +1,6 @@
 {
   "name": "weekly-session-creating-js-package",
-  "version": "1.0.7-0",
+  "version": "2.0.1",
   "description": "this is just a demo showcasing that we can publish something to npm",
   "homepage": "https://github.com/KirilZafirov/publish-to-npm",
   "main": "dist/index.js",
@@ -23,6 +23,9 @@
     "url": "https://github.com/KirilZafirov/publish-to-npm/issues"
   },
   "license": "ISC",
+  "files": [
+    "dist/**/*"
+  ],
   "dependencies": {
     "np": "^7.0.0"
   }
