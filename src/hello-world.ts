@@ -2,5 +2,9 @@ export function sayHello() {
     console.log('hi my dear friend')
   }
   export function sayGoodbye() {
-    console.log('goodbye')
+    console.log('goodbye my dear friend')
+  }
+
+  export function newHello() {
+    console.log('corona hello')
   }
