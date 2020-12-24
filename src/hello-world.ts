@@ -8,3 +8,7 @@ export function sayHello() {
   export function newHello() {
     console.log('corona hello')
   }
+  
+  export function coronaChiao() {
+    console.log('corona hello')
+  }
